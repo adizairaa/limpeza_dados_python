@@ -1,0 +1,82 @@
+# Limpeza de Dados com Python
+
+## 📌 Descrição do Notebook
+
+Este notebook tem como objetivo apresentar os **conceitos fundamentais de limpeza de dados utilizando Python**, demonstrando, de forma prática, como preparar dados brutos para análise, visualização e modelagem.
+
+A limpeza de dados é uma das etapas mais importantes em projetos de **Análise de Dados, Ciência de Dados e Machine Learning**, pois dados inconsistentes ou incorretos podem levar a conclusões erradas e decisões imprecisas.
+
+---
+
+## 🧹 O que é Limpeza de Dados?
+
+Limpeza de dados (Data Cleaning) é o processo de **identificar, corrigir ou remover problemas nos dados**, como:
+
+* Valores ausentes (nulos)
+* Dados duplicados
+* Tipos de dados incorretos
+* Inconsistências nos registros
+* Erros de formatação
+* Outliers irreais ou inválidos
+
+Esse processo garante que os dados estejam **confiáveis, padronizados e prontos para análise**.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+Neste notebook, a limpeza de dados é realizada principalmente com:
+
+* **Python**
+* **Pandas** – manipulação e análise de dados
+* **NumPy** – suporte para operações numéricas
+
+---
+
+## 📚 Conceitos Abordados no Notebook
+
+Ao longo do notebook, são trabalhados os seguintes conceitos:
+
+* Leitura de arquivos de dados
+* Inspeção inicial do dataset (`head()`, `info()`, `describe()`)
+* Identificação de valores nulos
+* Tratamento de dados ausentes (remoção ou substituição)
+* Remoção de dados duplicados
+* Correção de tipos de dados
+* Padronização de valores
+* Validação da qualidade dos dados após a limpeza
+
+---
+
+## ⭐ Importância da Limpeza de Dados
+
+A limpeza de dados é essencial porque:
+
+* 🔹 Melhora a **qualidade da análise**
+* 🔹 Evita erros em cálculos e visualizações
+* 🔹 Garante maior **confiabilidade nos resultados**
+* 🔹 Aumenta a eficiência de modelos preditivos
+* 🔹 Reduz retrabalho em etapas futuras do projeto
+
+Em projetos reais, estima-se que **até 80% do tempo do analista de dados** seja dedicado à preparação e limpeza dos dados.
+
+---
+
+## 🎯 Público-Alvo
+
+Este notebook é indicado para:
+
+* Estudantes iniciantes em **Análise de Dados**
+* Pessoas aprendendo **Python para dados**
+* Profissionais que desejam reforçar conceitos de **Data Cleaning**
+
+---
+
+## 🚀 Conclusão
+
+Ao final deste notebook, é possível compreender a importância da limpeza de dados e aplicar técnicas essenciais para transformar dados brutos em informações confiáveis, prontas para análise e tomada de decisão.
+
+---
+
+✍️ **Autora:** Adila Zairaa
+📅 **Projeto educacional – Análise de Dados com Python**
